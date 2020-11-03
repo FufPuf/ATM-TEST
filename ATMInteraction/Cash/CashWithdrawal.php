@@ -1,10 +1,10 @@
 <?php
 namespace ATMInteraction\Cash;
 
-require_once "/var/www/html/ATM/ATMInteraction/Cash/CashWithdrawalInterface/CashWithdrawalInterface.php";
-require_once "/var/www/html/ATM/ATMInteraction/Cash/Currency/CurrencyInterface/CurrencyInterface.php";
-require_once "/var/www/html/ATM/ATMInteraction/Cash/Currency/Uah.php";
-require_once "/var/www/html/ATM/ATMInteraction/Cash/Currency/Usd.php";
+require_once "/var/www/html/ATM-TEST/ATMInteraction/Cash/CashWithdrawalInterface/CashWithdrawalInterface.php";
+require_once "/var/www/html/ATM-TEST/ATMInteraction/Cash/Currency/CurrencyInterface/CurrencyInterface.php";
+require_once "/var/www/html/ATM-TEST/ATMInteraction/Cash/Currency/Uah.php";
+require_once "/var/www/html/ATM-TEST/ATMInteraction/Cash/Currency/Usd.php";
 
 use ATMInteraction\Cash\CashWithdrawalInterface\CashWithdrawalInterface;
 use ATMInteraction\Cash\Currency\Usd;

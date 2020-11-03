@@ -2,7 +2,7 @@
 
 namespace ATMInteraction\CheckBalance\BalanceInterface;
 
-require_once "/var/www/html/ATM/ATMInteraction/CheckBalance/CurrencyAcc/AccInterface/AccInterface.php";
+require_once "/var/www/html/ATM-TEST/ATMInteraction/CheckBalance/CurrencyAcc/AccInterface/AccInterface.php";
 
 use ATMInteraction\CheckBalance\CurrencyAcc\AccInterface\AccInterface;
 

@@ -2,7 +2,7 @@
 
 namespace ATMInteraction\Payments\PayInterface;
 
-require_once "/var/www/html/ATM/ATMInteraction/Payments/Receivers/ReceiverInterface/ReceiverInterface.php";
+require_once "/var/www/html/ATM-TEST/ATMInteraction/Payments/Receivers/ReceiverInterface/ReceiverInterface.php";
 
 use ATMInteraction\Payments\Receivers\ReceiverInterface\ReceiverInterface;
 

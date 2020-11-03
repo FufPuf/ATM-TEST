@@ -1,7 +1,7 @@
 <?php
 
 namespace ATMInteraction\Cash\Currency;
-require_once "/var/www/html/ATM/ATMInteraction/Cash/Currency/CurrencyInterface/CurrencyInterface.php";
+require_once "/var/www/html/ATM-TEST/ATMInteraction/Cash/Currency/CurrencyInterface/CurrencyInterface.php";
 use ATMInteraction\Cash\Сurrency\CurrencyInterface\CurrencyInterface;
 
 class Usd implements CurrencyInterface
