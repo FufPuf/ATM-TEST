@@ -1,5 +1,5 @@
-<a href="ATMInteraction/Cash/CashWithdrawal.php">cash withdrawal</a>
+<a href="ATM/Functional/Cash/CashWithdrawal.php">cash withdrawal</a>
 <br>
-<a href="ATMInteraction/CheckBalance/CheckBalance.php">check balance</a>
+<a href="ATM/Functional/CheckBalance/CheckBalance.php">check balance</a>
 <br>
-<a href="ATMInteraction/Payments/Payments.php">payments</a>
+<a href="ATM/Functional/Payments/Payments.php">payments</a>
