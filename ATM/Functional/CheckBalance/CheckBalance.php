@@ -15,7 +15,7 @@ class CheckBalance implements BalanceInterface, FunctionalInterface
     private $acc;
 
     /**
-     * * @param AccInterface $acc takes the class of the required acc
+     * @param AccInterface $acc takes the class of the required acc
      * @return int displays the amount on the account balance
      */
     public function checkBalance(AccInterface $acc)
